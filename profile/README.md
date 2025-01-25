@@ -15,8 +15,6 @@ Any member can find teammates within the group to form temporary localization te
 We hope this project will help more people contribute to the UNDERTALE Chinese community.
 
 ### 外部可用项目推荐
-
-[天机汉化工具 / TianjiHanTools](https://github.com/SunMark-Studio/TianjiHanTools) By [天机Ceyase](https://github.com/Ceyase)<br>
 [Undertale 字体扩展 / Undertale Fonts Extra](https://github.com/XiaoAkatsukiCN/Undertale-Fonts-Extra) By [晓晓Akatsuki](https://github.com/XiaoAkatsukiCN)
 
 ### 常用项目
