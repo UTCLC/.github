@@ -25,5 +25,11 @@ We hope this project will help more people contribute to the UNDERTALE Chinese c
 ### 外部可用项目推荐
 [Undertale 字体扩展 / Undertale Fonts Extra](https://github.com/XiaoAkatsukiCN/Undertale-Fonts-Extra) By [晓晓Akatsuki](https://github.com/XiaoAkatsukiCN)
 
-### 常用项目
-[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) By [Underminers](https://github.com/UnderminersTeam)
+### 常用工具
+\[GameMaker 反编译\] [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)<br>
+\[Godot 解包\] [Godot RE Tools](https://github.com/GDRETools/gdsdecomp)<br>
+\[C# 反编译\] [ILSpy](https://github.com/icsharpcode/ILSpy)<br>
+\[Unity 解包\] [AssetStudioMod](https://github.com/aelurum/AssetStudio)<br>
+\[Unity Mod 加载器\] [MelonLoader](http://github.com/LavaGang/MelonLoader)<br>
+\[查壳\] [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)<br>
+\[通用解包\] [QuickBMS](https://github.com/LittleBigBug/QuickBMS)
