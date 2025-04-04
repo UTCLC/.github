@@ -31,6 +31,6 @@ We hope this project will help more people contribute to the UNDERTALE Chinese c
 \[C# 反编译\] [ILSpy](https://github.com/icsharpcode/ILSpy), [dnSpyEx](https://github.com/dnSpyEx/dnSpy)<br>
 \[Unity 资产解包\] [AssetStudioMod](https://github.com/aelurum/AssetStudio)<br>
 \[Unity 资产编辑器\] [UABEA](https://github.com/nesrak1/UABEA), [UABEA 汉化版](https://github.com/aopkcn/UABEA-Chinese)<br>
-\[Unity Mod 加载器\] [MelonLoader](http://github.com/LavaGang/MelonLoader)<br>
+\[Unity Mod 加载器\] [MelonLoader](http://github.com/LavaGang/MelonLoader), [BepInEx](https://github.com/BepInEx/BepInEx)<br>
 \[查壳\] [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)<br>
 \[通用解包\] [QuickBMS](https://github.com/LittleBigBug/QuickBMS)
