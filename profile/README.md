@@ -22,6 +22,15 @@ For translators, joining the group allows better communication about translation
 Any member can find teammates within the group to form temporary localization teams for specific projects or establish formal teams.<br>
 We hope this project will help more people contribute to the UNDERTALE Chinese community.
 
+### 成员组
+[【请在此处输入文本】字幕组](https://space.bilibili.com/690124338)<br>
+IGB Team CN 团队（[组长 AX暗星233](https://space.bilibili.com/443074427)）<br>
+Undertale: Bits and Pieces 官方授权简体中文本地化组（[组长 AX暗星233](https://space.bilibili.com/443074427)）<br>
+TS! Underswap 官方简体中文本地化组（[组长 鸥皇不欧](https://space.bilibili.com/277750632)）<br>
+太岁爷汉化组（[组长 Herbert-Hyy](https://space.bilibili.com/315533705)）<br>
+晓译站。（[组长 晓晓_Akatsuki](https://space.bilibili.com/666697564)）<br>
+不是汉化组（[组长 badbf-海啸](https://space.bilibili.com/358284355)）
+
 ### 外部可用项目推荐
 [Undertale 字体扩展 / Undertale Fonts Extra](https://github.com/XiaoAkatsukiCN/Undertale-Fonts-Extra) By [晓晓Akatsuki](https://github.com/XiaoAkatsukiCN)
 
