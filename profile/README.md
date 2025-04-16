@@ -23,13 +23,20 @@ Any member can find teammates within the group to form temporary localization te
 We hope this project will help more people contribute to the UNDERTALE Chinese community.
 
 ### 成员组
-[【请在此处输入文本】字幕组](https://space.bilibili.com/690124338)<br>
-IGB Team CN 团队（[组长 AX暗星233](https://space.bilibili.com/443074427)）<br>
-Undertale: Bits and Pieces 官方授权简体中文本地化组（[组长 AX暗星233](https://space.bilibili.com/443074427)）<br>
-TS! Underswap 官方简体中文本地化组（[组长 鸥皇不欧](https://space.bilibili.com/277750632)）<br>
-太岁爷汉化组（[组长 Herbert-Hyy](https://space.bilibili.com/315533705)）<br>
-晓译站。（[组长 晓晓_Akatsuki](https://space.bilibili.com/666697564)）<br>
-不是汉化组（[组长 badbf-海啸](https://space.bilibili.com/358284355)）
+|本地化组名|组长/联络人|社交平台|
+|-|-|-|
+请在此处输入文本|Ann231242|[官方哔哩哔哩账户](https://space.bilibili.com/690124338)<br>
+IGB Team CN|AX暗星233|[组长哔哩哔哩账户](https://space.bilibili.com/443074427)<br>
+Undertale: Bits and Pieces 官方授权简体中文本地化组|AX暗星233|[组长哔哩哔哩账户](https://space.bilibili.com/443074427)<br>
+TS! Underswap 官方简体中文本地化组|鸥皇不欧|[组长哔哩哔哩账户](https://space.bilibili.com/277750632)<br>
+太岁爷汉化组|Herbert-Hyy|[组长哔哩哔哩账户](https://space.bilibili.com/315533705)<br>
+晓译站。|晓晓\_Akatsuki|[组长哔哩哔哩账户](https://space.bilibili.com/666697564)<br>
+不是汉化组|badbf-海啸|[组长哔哩哔哩账户](https://space.bilibili.com/358284355)
+
+### 名下无组别项目
+|项目|原作者|类型|原语言|译为语言|参与者名单|当前状态/配布地址|
+|-|-|-|-|-|-|-|
+|[Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)|[Team UTY](https://gamejolt.com/@TeamUTY)|非官方<br>无需授权|英文|简体中文|<details><summary>程序/技术</summary>憨憨羊の宇航鸽鸽<br>天机Ceyase<br>KodLenss<br>芝士纸鸢<br>晓晓\_Akatsuki<br>AX暗星</details><details><summary>文本</summary>天机Ceyase<br>憨憨羊の宇航鸽鸽<br>晓晓\_Akatsuki<br>MurderSans\_MDR<br>全息鲜鱼碎片<br>Miffey<br>静音人<br>幻-\_-风<br>请在此处输入文本<br>Aryen<br>芝士纸鸢<br>Fish\_Toucher<br>KodLenss<br>爱丽丝是金发吗<br>机枪豌豆123<br>Sunshine<br>敏克<br>1个渣渣<br>RustyCotton<br>ShadowNight<br>鸥皇不欧<br>AshleyC\_<br>CLE<br>Frick之心<br>SAIPAN<br>Soc<br>洛白Loris</details><details><summary>美术</summary>芝士纸鸢<br>KodLenss<br>三叶Clover<br>晓晓\_Akatsuki</details>|已发布<br>最新版本：v1.3<details><summary>配布地址</summary>[哔哩哔哩发布视频](https://www.bilibili.com/video/BV1jeFReuESV)<br>[YouTube发布视频](https://www.youtube.com/watch?v=Q3dltfMAy78)<br>[巴哈姆特發佈貼文](https://forum.gamer.com.tw/C.php?bsn=29347&snA=1499)</details>
 
 ### 外部可用项目推荐
 [Undertale 字体扩展 / Undertale Fonts Extra](https://github.com/XiaoAkatsukiCN/Undertale-Fonts-Extra) By [晓晓Akatsuki](https://github.com/XiaoAkatsukiCN)
