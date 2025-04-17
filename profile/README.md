@@ -23,7 +23,7 @@ Any member can find teammates within the group to form temporary localization te
 We hope this project will help more people contribute to the UNDERTALE Chinese community.
 
 ### 成员组
-|本地化组名|组长/联络人|社交平台|
+|本地化组名称|组长/联络人|社交平台|
 |-|-|-|
 请在此处输入文本|Ann231242|[官方哔哩哔哩账户](https://space.bilibili.com/690124338)<br>
 IGB Team CN|AX暗星233|[组长哔哩哔哩账户](https://space.bilibili.com/443074427)<br>
