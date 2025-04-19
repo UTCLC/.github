@@ -49,4 +49,7 @@ TS! Underswap 官方简体中文本地化组|鸥皇不欧|[组长哔哩哔哩账
 \[Unity 资产编辑器\] [UABEA](https://github.com/nesrak1/UABEA), [UABEA 汉化版](https://github.com/aopkcn/UABEA-Chinese)<br>
 \[Unity Mod 加载器\] [MelonLoader](http://github.com/LavaGang/MelonLoader), [BepInEx](https://github.com/BepInEx/BepInEx)<br>
 \[查壳\] [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)<br>
-\[通用解包\] [QuickBMS](https://github.com/LittleBigBug/QuickBMS)
+\[通用解包\] [QuickBMS](https://github.com/LittleBigBug/QuickBMS)<br>
+\[字幕打轴\] [Aegisub](https://github.com/TypesettingTools/Aegisub)<br>
+\[像素画图\] [Aseprite](https://github.com/aseprite/aseprite)<br>
+\[简繁转换\] [OpenCC](https://github.com/BYVoid/OpenCC), [zhconv](https://github.com/gumblex/zhconv)（勿滥用，仍需人工校对）
