@@ -31,7 +31,7 @@ Undertale: Bits and Pieces 官方授权简体中文本地化组|游戏|英文<br
 TS! Underswap 官方简体中文本地化组|游戏|英文<br>简体中文|鸥皇不欧|[组长哔哩哔哩账户](https://space.bilibili.com/277750632)
 太岁爷汉化组|游戏|英文<br>简体中文|Herbert-Hyy|[组长哔哩哔哩账户](https://space.bilibili.com/315533705)
 晓译站。|游戏|英文<br>日文<br>简体中文<br>繁体中文|晓晓\_Akatsuki|[组长哔哩哔哩账户](https://space.bilibili.com/666697564)
-不是汉化组|游戏|英文<br>简体中文|badbf-海啸|[组长哔哩哔哩账户](https://space.bilibili.com/358284355)
+不是汉化组|游戏|英文<br>简体中文|badbf-海啸|[官方哔哩哔哩账户](https://space.bilibili.com/1181638202)
 
 ### 项目
 |项目|原作者|<div style="width:64px">类型</div>|<div style="width:48px">原语言</div>|<div style="width:64px">译为语言</div>|[所属组别](#成员组) /<br>参与者名单（无组别）|当前状态/配布地址|
